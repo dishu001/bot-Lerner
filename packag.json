@@ -1,0 +1,12 @@
+"name": "TEST-BOT",
+    "version": "1.0.0",
+    "description": "This is a simple test and experiment bot",
+    "main": "tWST-bot.js",
+    "author": "dishu",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
